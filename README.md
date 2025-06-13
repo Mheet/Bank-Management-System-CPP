@@ -54,16 +54,16 @@ This project simulates real-world banking operations like account creation, depo
 ```bash
 git clone https://github.com/Mheet/Bank-Management-System-CPP.git
 cd Bank-Management-System-CPP
-
+ ``` 
 ### 2. Compile the Project (Using g++)
 ```bash
 g++ main.cpp -o BankSystem
-
+ ``` 
 ### 3. Run the Executable
 ```bash
 ./BankSystem      # For Linux/Mac
 BankSystem.exe    # For Windows (just double click or run from CMD)
-
+ ``` 
 ---
 
 ## 🪪 License
